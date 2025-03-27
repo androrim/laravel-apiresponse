@@ -1,0 +1,22 @@
+{
+    "name": "beepeat/apiresponse",
+    "description": "Package for standardizing API responses in BeepEat",
+    "type": "library",
+    "license": "Private",
+    "autoload": {
+        "psr-4": {
+            "BeepEat\\ApiResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leandro de Amorim",
+            "email": "androrim@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/support": "^12.2",
+        "illuminate/http": "^12.2"
+    }
+}
