@@ -1,5 +1,5 @@
 {
-    "name": "beepeat/apiresponse",
+    "name": "androrim/laravel-apiresponse",
     "description": "Package for standardizing API responses in BeepEat",
     "type": "library",
     "license": "Private",

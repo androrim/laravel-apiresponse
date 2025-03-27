@@ -1,9 +1,9 @@
 <?php
 
-namespace BeepEat\ApiResponse;
+namespace Androrim\ApiResponse;
 
-use BeepEat\ApiResponse\Enums\HttpErrors;
-use BeepEat\ApiResponse\Enums\HttpSuccess;
+use Androrim\ApiResponse\Enums\HttpErrors;
+use Androrim\ApiResponse\Enums\HttpSuccess;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Facades\Response;
 

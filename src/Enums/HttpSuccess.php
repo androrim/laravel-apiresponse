@@ -1,6 +1,6 @@
 <?php
 
-namespace BeepEat\ApiResponse\Enums;
+namespace Androrim\ApiResponse\Enums;
 
 enum HttpSuccess: int
 {
